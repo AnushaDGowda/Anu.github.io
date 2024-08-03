@@ -19,7 +19,7 @@ A highly motivated and enthusiastic Computer Science graduate with a passion for
 ## Education
 **Bachelor of Engineering in Computer Science**  
 HMS Institute of Technology (HMSIT), Tumkur  
-Graduated: [Month, Year]
+Graduated: [June, 2024]
 
 ---
 
