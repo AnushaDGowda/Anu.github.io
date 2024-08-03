@@ -6,7 +6,7 @@
 anusha-d-anusha-d-a091b231b
 ]  
 **GitHub:** [github.com/AnushaDGowda]  
-**Portfolio:** [anu.github.io]  
+**Portfolio:** [Anu.github.io]  
 **Address:** Tumkur
 
 ---
