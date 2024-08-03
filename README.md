@@ -1,10 +1,12 @@
 # Anusha D
 
-**Email:** [your.email@example.com]  
-**Phone:** [+1-234-567-8901]  
-**LinkedIn:** [linkedin.com/in/yourprofile]  
-**GitHub:** [github.com/yourprofile]  
-**Portfolio:** [yourportfolio.com]  
+**Email:** [Anusha D]  
+**Phone:** [8147054073]  
+**LinkedIn:** [www.linkedin.com/in/
+anusha-d-anusha-d-a091b231b
+]  
+**GitHub:** [github.com/AnushaDGowda]  
+**Portfolio:** [anu.github.io]  
 **Address:** Tumkur
 
 ---
